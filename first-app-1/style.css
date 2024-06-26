@@ -1,0 +1,15 @@
+.navbar a {
+    float: left;
+    display:block;
+    color:black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+    
+.header{
+    padding: 80px;
+    text-align: center;
+    background: #367892;
+}
