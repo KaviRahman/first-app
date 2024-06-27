@@ -13,3 +13,20 @@
     text-align: center;
     background: #367892;
 }
+
+.row{
+    padding: 20px;
+    text-align: center;
+    background-color: #053649;
+    
+}
+
+.side{
+    padding: 10px;
+    text-align: left;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
