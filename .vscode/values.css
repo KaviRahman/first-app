@@ -23,14 +23,7 @@
     background: #01668e;
 }
 
-.detail{
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    background-color: hwb(197 11% 22%);
-    
-}
+
 
 .side{
     -ms-flex: 30%;

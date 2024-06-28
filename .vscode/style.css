@@ -18,7 +18,7 @@
 
     
 .header{
-    padding: 80px;
+    padding: 100px;
     text-align: center;
     background: #01668e;
 }
@@ -28,8 +28,8 @@
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    background-color: hwb(197 11% 22%);
-    
+    background: #01668e;
+    text-align: center;
 }
 
 .side{
@@ -45,7 +45,11 @@
 .footer {
     padding: 20px;
     text-align: center;
-    background-color: rgb(0, 131, 131);
+    background: #01668e;
 }
 
-
+.main {
+    padding: 100px;
+    text-align: left;
+    background: #01668e; 
+}
